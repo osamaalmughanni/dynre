@@ -16,7 +16,7 @@ copy DYNRE.dll and DYNRE.addin inside your Revit Addins directory in C:\ProgramD
 <br />
 — use our powerful cLine to run each script by its number provided on dynre.com
 <br />
-— feel free to write me at oa@dynre.com if you had any issues or maybe suggestions for other new automation scripts.
+— feel free to write me if you had any issues or maybe suggestions for other new automation scripts.
 <br />
 <br />
 
